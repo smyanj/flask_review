@@ -1,2 +1,2 @@
 # flask_review
-Just tracking my progress on reviewing flask fundamentals
+Tracking my progress on reviewing flask fundamentals
